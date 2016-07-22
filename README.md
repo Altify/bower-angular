@@ -4,6 +4,8 @@ This repo is for distribution on `npm` and `bower`. The source for this module i
 [main AngularJS repo](https://github.com/angular/angular.js).
 Please file issues and pull requests against that repo.
 
+TEST COMMENT
+
 ## Install
 
 You can install this package either with `npm` or with `bower`.
